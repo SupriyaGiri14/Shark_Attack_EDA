@@ -1,4 +1,4 @@
-🦈 Shark Attack Exploratory Data Analysis (EDA)
+#🦈 Shark Attack Exploratory Data Analysis (EDA)#
 📌 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on global shark attack data.
