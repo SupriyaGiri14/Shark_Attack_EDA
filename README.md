@@ -14,6 +14,8 @@
 👉 [View Presentation Link1](https://drive.google.com/file/d/1tP024t2JnVgCJO0lGedndc0SECaLllbJ/view?usp=drive_link)
 👉 [View Presentation Link2](https://canva.link/ejjwlz9kxgfc2ev)
 
+---
+
 ## 📌 Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on global shark attack data.  
 The goal is to clean the dataset, analyze patterns, and extract meaningful insights about shark attacks such as frequency, locations, activities, and outcomes.
