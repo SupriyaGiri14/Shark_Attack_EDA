@@ -11,7 +11,7 @@
 ---
 
 ## 📊 Project Presentation
-👉 [View Presentation Link1](https://drive.google.com/file/d/1tP024t2JnVgCJO0lGedndc0SECaLllbJ/view?usp=drive_link)
+👉 [View Presentation Link1](https://docs.google.com/presentation/d/1XDTuEwYNtFiINmutC_7Q9gRhbiSLYgXy/edit?usp=sharing&ouid=102501106981086246907&rtpof=true&sd=true)
 👉 [View Presentation Link2](https://canva.link/ejjwlz9kxgfc2ev)
 
 ---
