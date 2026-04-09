@@ -94,6 +94,6 @@ Shark_Attack_Repo/
  
   ## 🚀 How to Run This Project
 ```bash
-git clone https://github.com/your-username/Shark_Attack_Repo.git
-cd Shark_Attack_Repo
+git clone https://github.com/SupriyaGiri14/Shark_Attack_EDA.git
+cd Shark_Attack_EDA
 jupyter notebook
