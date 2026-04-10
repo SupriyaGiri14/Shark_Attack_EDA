@@ -1,4 +1,6 @@
 # 🦈 Shark Attack Exploratory Data Analysis (EDA)  ![](./logo.png)
+<img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/75b5b03e-2183-466b-86b3-0ff3689e6975" />
+
 ## 👥 Team Members
 
 - Johannas  
