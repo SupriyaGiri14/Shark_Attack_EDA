@@ -1,4 +1,4 @@
-# 🦈 Shark Attack Exploratory Data Analysis (EDA) 
+# 🦈 Shark Attack Exploratory Data Analysis (EDA)  ![](./logo.png)
 ## 👥 Team Members
 
 - Johannas  
